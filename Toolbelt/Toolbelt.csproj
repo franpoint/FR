@@ -42,7 +42,9 @@
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <None Include="README.md" />
+  </ItemGroup>
   <ItemGroup>
     <Content Include="js\FR.Util.js" />
     <Content Include="js\lib\jquery-1.11.1.min.js" />
